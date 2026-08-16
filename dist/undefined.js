@@ -1,4 +1,4 @@
 "use strict";
-// simple undefined learining
+// simple undefined learning
 let course;
 console.log(course);

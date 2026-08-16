@@ -7,8 +7,8 @@ let marks:number = 90;
 console.log(marks)
 
 // float
-let perentage:number = 90.5;
-console.log(perentage);
+let percentage:number = 90.5;
+console.log(percentage);
 
 // Negative Int/Float
 let temp:number = -2.5;

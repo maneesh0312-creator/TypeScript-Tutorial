@@ -6,8 +6,8 @@ console.log(age);
 let marks = 90;
 console.log(marks);
 // float
-let perentage = 90.5;
-console.log(perentage);
+let percentage = 90.5;
+console.log(percentage);
 // Negative Int/Float
 let temp = -2.5;
 console.log(temp);
