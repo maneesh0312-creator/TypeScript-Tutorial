@@ -1,0 +1,1 @@
+declare let unknownValue: unknown;
