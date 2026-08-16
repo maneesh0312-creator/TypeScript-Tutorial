@@ -17,3 +17,13 @@ console.log(result);
 // Infinity
 let inf = 10 / 0;
 console.log(inf);
+// add two value function in typescript
+function add(a, b) {
+    return a + b;
+}
+console.log(add(10, 20));
+// Subtract two value function in typescript
+function subtract(a, b) {
+    return a - b;
+}
+console.log(add(30, 20));
